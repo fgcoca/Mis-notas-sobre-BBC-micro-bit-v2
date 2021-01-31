@@ -5,7 +5,7 @@ Haré un breve repaso de las novedades respecto a la versión anterior.
 
 Finalmente incluiré el diseño completo de un protector imprimible en 3D para la misma.
 
-El aspecto final de la placa con su protector lo vemos a continuación.
+El aspecto final de la placa con su protector ya montado lo vemos a continuación.
 
 <center>
 
