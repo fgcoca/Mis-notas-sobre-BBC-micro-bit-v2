@@ -11,6 +11,6 @@ El aspecto final de la placa con su protector ya montado lo vemos a continuació
 
 | BBC micro:bit v2 con protector |
 |:-:|
-| ![BBC micro:bit v2 con protector](../img/microbit-protector.png) |
+| ![BBC micro:bit v2 con protector](../img/3D/base-delantera.png) |
 
 </center>
