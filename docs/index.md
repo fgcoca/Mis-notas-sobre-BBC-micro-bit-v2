@@ -6,11 +6,3 @@ Haré un breve repaso de las novedades respecto a la versión anterior.
 Finalmente incluiré el diseño completo de un protector imprimible en 3D para la misma.
 
 El aspecto final de la placa con su protector ya montado lo vemos a continuación.
-
-<center>
-
-| BBC micro:bit v2 con protector |
-|:-:|
-| ![BBC micro:bit v2 con protector](../img/indice/microbit-protector.png) |
-
-</center>
