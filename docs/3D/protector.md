@@ -41,3 +41,14 @@ En la tabla siguiente tenemos los archivos del proyecto listos para descargar.
 </center>
 
 Este es el enlace al archivo de [diseño en FreeCAD](protector-microbit-V2/src/protector-V2.FCStd). y este a la [TTF utilizada](protector-microbit-V2/src/Sircuito-Regular-Bold.ttf) para crear los letreros.
+
+El aspecto del protector una vez montado lo tenemos en la imagen 3.
+
+<center>
+
+| Imagen 3 |
+|:-:|
+| ![BBC micro:bit v2 con protector](../img/indice/microbit-protector.png) |
+| BBC micro:bit v2 con protector |
+
+</center>
